@@ -10,8 +10,6 @@ Milestone 1 focuses on building the baseline pipeline for a style-conditioned im
 
 This milestone establishes the baseline caption generation before embedding injection and fine-tuning in later milestones.
 
----
-
 ### 🎯 Milestone 1 Tasks
 
 * Flickr30k dataset selection and preprocessing
@@ -21,8 +19,6 @@ This milestone establishes the baseline caption generation before embedding inje
 * Style prompt conditioning
 * Baseline caption test runs
 * Repository setup and documentation
-
----
 
 ### 🧠 Model Pipeline
 
@@ -39,8 +35,6 @@ This milestone establishes the baseline caption generation before embedding inje
 * Casual Visitor
 * Children’s Guide
 
----
-
 ### 📊 Milestone 1 Results
 
 * Baseline captions generated successfully
@@ -49,19 +43,18 @@ This milestone establishes the baseline caption generation before embedding inje
 * CLIP embeddings extracted but not injected yet
 * Embedding injection will be implemented in Milestone 2
 
----
 
 ## 📁 Files Included
 
 ```
 Milestone 1/
 │
-├── Baseline_code.ipynb
-├── Project_Proposal.pdf
-├── README.md
+├── 📄 Baseline_code.ipynb
+│
+├── 📄 Project_Proposal.pdf
+│
+├── 📘 README.md
 ```
 
 ---
 
-
-If you keep all milestones like this, your repo will look very clean and structured.
