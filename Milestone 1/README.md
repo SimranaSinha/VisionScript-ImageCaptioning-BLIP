@@ -99,7 +99,7 @@ Baseline captions were generated successfully using GPT-2 with style prompts.
 ## 📁 Repository Structure
 
 ```
-Milestone 1/
+🗂️ Milestone 1/
 │
 ├── 📄 Baseline_code.ipynb
 │
