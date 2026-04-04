@@ -30,17 +30,37 @@ This milestone evaluates which method generates the most accurate and descriptiv
 
 ## 🖼️ Results Comparison
 
-- Test 1
-Observation: BLIP generated the most accurate caption. Prefix Tuning produced an incorrect description. LoRA and Full Fine-Tuning generated partially correct captions related to soccer.
+# 🎨 Results Comparison
 
-- Test 2
-Observation: BLIP correctly identified the dog on a beach. LoRA and Full Fine-Tuning generated action-based captions but were not fully accurate. Prefix Tuning again produced an incorrect caption.
+## Test 1
+![Test 1](https://raw.githubusercontent.com/SimranaSinha/Museum-Canvas-Caption-CLIP-GPT2/main/Milestone%203/Results/Test_1_comparison.png)
 
-- Test 3
-Observation: BLIP correctly described two people sitting on a bench in the woods. LoRA and Full Fine-Tuning produced incorrect scene descriptions. Prefix Tuning output was unrelated to the image.
+**Observation:**  
+BLIP generated the most accurate caption describing a person standing on a soccer ball. Prefix Tuning produced an incorrect caption, while LoRA and Full Fine-Tuning generated partially relevant soccer-related descriptions.
 
-- Test 4
-Observation: BLIP correctly identified a lion in the grass. Prefix Tuning, LoRA, and Full Fine-Tuning generated incorrect captions unrelated to the lion image.
+---
+
+## Test 2
+![Test 2](https://raw.githubusercontent.com/SimranaSinha/Museum-Canvas-Caption-CLIP-GPT2/main/Milestone%203/Results/Test_2_comparison.png)
+
+**Observation:**  
+BLIP correctly identified a brown and white dog standing on a beach. LoRA and Full Fine-Tuning described a dog action scene but were not fully accurate. Prefix Tuning again generated an incorrect caption.
+
+---
+
+## Test 3
+![Test 3](https://raw.githubusercontent.com/SimranaSinha/Museum-Canvas-Caption-CLIP-GPT2/main/Milestone%203/Results/Test_3_comparison.png)
+
+**Observation:**  
+BLIP correctly described a man and a woman sitting on a bench in the woods. LoRA and Full Fine-Tuning generated incorrect scene descriptions. Prefix Tuning produced an unrelated caption.
+
+---
+
+## Test 4
+![Test 4](https://raw.githubusercontent.com/SimranaSinha/Museum-Canvas-Caption-CLIP-GPT2/main/Milestone%203/Results/Test_4_comparison.png)
+
+**Observation:**  
+BLIP correctly identified a lion lying in the grass. Prefix Tuning, LoRA, and Full Fine-Tuning generated incorrect captions unrelated to the lion image.
 
 ---
 
