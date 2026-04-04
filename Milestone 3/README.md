@@ -54,7 +54,7 @@ Observation: BLIP correctly identified a lion in the grass. Prefix Tuning, LoRA,
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
 
 ```
 🗂️ Milestone 3
