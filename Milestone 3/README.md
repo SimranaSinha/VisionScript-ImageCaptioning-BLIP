@@ -28,9 +28,6 @@ This milestone evaluates which method generates the most accurate and descriptiv
 
 ---
 ## 🖼️ Results Comparison
-
-# 🎨 Results Comparison
-
 ## Test 1
 ![Test 1](https://raw.githubusercontent.com/SimranaSinha/Museum-Canvas-Caption-CLIP-GPT2/main/Milestone%203/Results/Test_1_comparison.png)
 
