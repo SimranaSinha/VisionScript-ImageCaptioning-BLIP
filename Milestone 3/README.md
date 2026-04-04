@@ -27,14 +27,6 @@ This milestone evaluates which method generates the most accurate and descriptiv
 | BLIP           | Pretrained image captioning baseline model                    |
 
 ---
-## 📊 Results Summary Table
-
-The table below compares different fine-tuning methods using evaluation metrics such as BLEU, METEOR, CIDEr, and ROUGE-L, along with the number of trainable parameters.
-
-![Results Summary](https://raw.githubusercontent.com/SimranaSinha/Museum-Canvas-Caption-CLIP-GPT2/main/Milestone%203/Summary.png)
-
----
-
 ## 🖼️ Results Comparison
 
 # 🎨 Results Comparison
@@ -78,6 +70,14 @@ BLIP correctly identified a lion lying in the grass. Prefix Tuning, LoRA, and Fu
 * Full Fine-Tuning produced more descriptive captions but sometimes overfitted.
 * BLIP produced the most accurate and consistent captions across test images.
 * Parameter-efficient methods (Prefix, LoRA) require less training but may reduce caption quality.
+
+---
+
+## 📊 Results Summary Table
+
+The table below compares different fine-tuning methods using evaluation metrics such as BLEU, METEOR, CIDEr, and ROUGE-L, along with the number of trainable parameters.
+
+![Results Summary](https://raw.githubusercontent.com/SimranaSinha/Museum-Canvas-Caption-CLIP-GPT2/main/Milestone%203/Summary.png)
 
 ---
 
