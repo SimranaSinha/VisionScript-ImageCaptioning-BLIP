@@ -1,4 +1,4 @@
-# Generative Project: Museum Canvas Caption - CLIP - GPT2
+# Generative Project: VisionScript-ImageCaptioning - BLIP
 
 ---
 ### 🗃️ Drive 
