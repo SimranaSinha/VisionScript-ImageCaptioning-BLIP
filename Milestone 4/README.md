@@ -103,44 +103,40 @@ This milestone focuses on making the system more flexible and interactive by all
 
 ---
 
-### Small tip (important)
-
-If images don’t render on GitHub, replace `blob` with `raw` like this:
-
-```
-https://raw.githubusercontent.com/SimranaSinha/VisionScript-ImageCaptioning-BLIP/main/Milestone%204/Results/filename.png
-```
-
----
-
-If you want, I can now:
-
-* Merge this into your **full final README (perfect formatting)**
-* Or make it **identical style to Milestone 3 (spacing, headings, emojis exactly matched)**
-
-
-
 ## 📊 Observations
 
 * **Paragraph mode** provides richer and more context-aware descriptions
 * **Single mode** is faster and more concise but less detailed
 * **VQA** demonstrates strong spatial understanding (e.g., location, actions)
 * Model performs well on:
-
   * Clear subjects
   * Outdoor scenes
 * Slight verbosity and repetition observed in paragraph mode
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
 
 ```
-Milestone 4/
+🗂️ Milestone 4
 │
-├── VisionScript_Milestone4.ipynb   # Main implementation notebook
-├── Results/                        # Output images + captions
-├── README.md                      # Documentation
+├── 📑 Results/
+│   │
+│   ├── 🖼️ VisionScript_paragraph_20260409_160452.png   # Lion – Paragraph
+│   │
+│   ├── 🖼️ VisionScript_paragraph_20260410_003347.png   # Group Scene – Paragraph
+│   │
+│   ├── 🖼️ VisionScript_paragraph_20260410_003722.png   # Sand Dune – Paragraph
+│   │
+│   ├── 🖼️ VisionScript_single_20260409_160448.png      # Lion – Single Caption
+│   │
+│   └── 🖼️ VisionScript_vqa_20260410_003730.png         # VQA Output
+│
+├── 📄 Final_Prj2.ipynb
+│
+├── 📄 Final_Prj2NNDL.ipynb
+│
+└── 📘 README.md
 ```
 
 ---
@@ -163,33 +159,8 @@ Milestone 4/
 
 ---
 
-## ⚠️ Limitations
-
-* Paragraph captions can be slightly repetitive
-* Performance depends on image clarity
-* VQA is limited to visible context (no external reasoning)
-
----
-
-## 💡 Future Work
-
-* Fine-tune BLIP on custom datasets
-* Add style-based captions (formal, casual, storytelling)
-* Improve VQA reasoning depth
-* Integrate real-time Streamlit interface
-* Add evaluation metrics (BLEU, CIDEr)
-
----
-
 ## ✅ Conclusion
 
-Milestone 4 successfully enhances VisionScript into a **multi-functional vision-language system**.
-The addition of paragraph captions and VQA significantly improves usability, making the system more interactive and closer to real-world applications like assistive AI, smart search, and visual storytelling.
+Milestone 4 successfully enhances VisionScript into a **multi-functional vision-language system**. The addition of paragraph captions and VQA significantly improves usability, making the system more interactive and closer to real-world applications like assistive AI, smart search, and visual storytelling.
 
----
-
-If you want, I can also:
-
-* Add your **actual result images (not placeholders)** properly formatted for GitHub
-* Or match **exact styling from your Milestone 3 README line-by-line** for consistency
 
