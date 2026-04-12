@@ -143,12 +143,6 @@ This milestone represents the final system evaluation and comparison stage of th
 
 **Image → CLIP Encoder → Embedding Injection → Fine-Tuned GPT-2 → Styled Caption**
 
-**Styles Evaluated:**
-
-* Art Critic
-* Casual Visitor
-* Children’s Guide
-
 ### 📊 Milestone 3 Results
 
 * Fine-tuned model produced more descriptive captions
