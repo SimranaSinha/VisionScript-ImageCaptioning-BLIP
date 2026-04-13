@@ -71,6 +71,12 @@ Baseline captions were generated successfully using BLIP on 5 sample Flickr30k i
 
 ---
 
+### 🖼️ Baseline Caption Results
+
+![Baseline Captions](baseline_captions.png)
+
+---
+
 ## 📁 Repository Structure
 
 ```
