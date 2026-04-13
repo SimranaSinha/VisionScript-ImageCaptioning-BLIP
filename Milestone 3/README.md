@@ -1,4 +1,4 @@
-# 🎨 Museum Canvas Caption — Milestone 3
+# 🖼️ VisionScript  — Milestone 3
 
 **CLIP + GPT-2 Fine-Tuning Methods Comparison**
 
