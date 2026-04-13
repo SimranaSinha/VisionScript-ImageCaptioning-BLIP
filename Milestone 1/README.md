@@ -82,7 +82,7 @@ Baseline captions were generated successfully using BLIP on 5 sample Flickr30k i
 ```
 🗂️ Milestone 1/
 │
-├── 📄 Baseline_code.ipynb
+├── 📄 Milestone_1_Prj2.ipynb
 │
 ├── 📄 Project_Proposal.pdf
 │
