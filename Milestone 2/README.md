@@ -1,4 +1,4 @@
-# 🎨 MuseumCaption – Milestone 2
+# 🖼️ VisionScript  – Milestone 2
 
 ##  CLIP + GPT-2 Caption Generation
 
