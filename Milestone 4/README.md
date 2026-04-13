@@ -1,4 +1,4 @@
-# 🎨 Museum Canvas Caption - Milestone 4
+# 🖼️ VisionScript - Milestone 4
 
 **Multi-Mode Captioning + VQA**
 
