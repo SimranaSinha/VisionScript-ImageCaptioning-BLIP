@@ -50,7 +50,7 @@ This milestone establishes the baseline caption generation before fine-tuning in
 │
 ├── 🖼️ baseline_captions.png
 │
-└── 📘 README.md                    – Documentation
+└── 📘 README.md                    
 ```
 
 ---
