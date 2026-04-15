@@ -139,10 +139,7 @@ This milestone represents the final system evaluation and comparison stage of th
 ### 📊 Milestone 3 Results
 
 * Fine-tuned model produced more descriptive captions
-* Style differences clearly visible in generated captions
-* Art Critic captions were formal and technical
-* Casual Visitor captions were conversational
-* Children’s Guide captions were simple and playful
+* Style differences clearly visible in generated captions (single/paragraph)
 * Final system successfully generates style-conditioned captions
 
 ### 📁 Files Included
